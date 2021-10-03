@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{404 Error Page}</h1>
+<h1 align="center">404 Error Page</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -9,13 +9,8 @@
 <div align="center">
   <h3>
     <a href="https://https://mohamed-iyed.github.io/404-Error-Page/">
-      Demo
-    </a>
-    <span> | </span>
-    <a href="https://https://mohamed-iyed.github.io/404-Error-Page/">
       Solution
     </a>
-
   </h3>
 </div>
 
@@ -42,5 +37,5 @@ HTML / CSS
 ## Contact
 
 
-- GitHub [@your-username](https://https://github.com/mohamed-iyed)
+- Facebook [@Mohamed Iyed](https://www.facebook.com/iyed.rhimi.378)
 
