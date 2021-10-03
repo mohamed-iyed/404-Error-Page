@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://https://mohamed-iyed.github.io/404-Error-Page/">
+    <a href="https://mohamed-iyed.github.io/404-Error-Page/">
       Solution
     </a>
   </h3>
